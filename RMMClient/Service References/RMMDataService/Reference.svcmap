@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="84e8514e-93c4-4269-9e39-b77a5dd3ae8c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57517/RagialPoller.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RagialPoller.xsd" MetadataType="Schema" ID="9cc61749-0201-4a2e-8c25-be9d26224202" SourceId="1" SourceUrl="http://localhost:57517/RagialPoller.svc?xsd=xsd1" />
+    <MetadataFile FileName="RagialPoller.disco" MetadataType="Disco" ID="451df0ad-64db-4105-a288-d934a04d4da6" SourceId="1" SourceUrl="http://localhost:57517/RagialPoller.svc?disco" />
+    <MetadataFile FileName="RagialPoller1.xsd" MetadataType="Schema" ID="06dd6345-fc8b-4137-b622-007525a71769" SourceId="1" SourceUrl="http://localhost:57517/RagialPoller.svc?xsd=xsd3" />
+    <MetadataFile FileName="RagialPoller2.xsd" MetadataType="Schema" ID="3d83b2b4-e9f7-4015-b4de-145f298c6c46" SourceId="1" SourceUrl="http://localhost:57517/RagialPoller.svc?xsd=xsd0" />
+    <MetadataFile FileName="RagialPoller3.xsd" MetadataType="Schema" ID="979de4fc-7b38-45e7-8d3f-7695fbc1a929" SourceId="1" SourceUrl="http://localhost:57517/RagialPoller.svc?xsd=xsd2" />
+    <MetadataFile FileName="RagialPoller.wsdl" MetadataType="Wsdl" ID="9c13437e-028f-4266-bcc4-a2127749032a" SourceId="1" SourceUrl="http://localhost:57517/RagialPoller.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
